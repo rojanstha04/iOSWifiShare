@@ -42,13 +42,13 @@ A modern iOS app built with SwiftUI that makes WiFi sharing effortless through Q
 ### Setup Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/qr-wifi.git
+   git clone https://github.com/rojanstha04/iOSWifiShare.git
    cd qr-wifi
    ```
 
 2. Open the project in Xcode:
    ```bash
-   open QRWiFi.xcodeproj
+   open dailyutility.xcodeproj
    ```
 
 3. Configure your development team in Xcode:
